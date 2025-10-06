@@ -1,5 +1,4 @@
 package com.BrainTeaser.service.impl;
-
 import com.BrainTeaser.dto.CategoryDto;
 import com.BrainTeaser.model.Category;
 import com.BrainTeaser.repository.CategoryRepository;
