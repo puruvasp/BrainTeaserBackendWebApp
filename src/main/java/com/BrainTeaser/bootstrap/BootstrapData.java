@@ -136,5 +136,4 @@ public class BootstrapData implements CommandLineRunner
 
         System.out.println("Bootstrap data loaded successfully!");
     }
-
 }
