@@ -9,4 +9,5 @@ public interface CategoryUtility {
 
     public abstract Category toCategoryEntity(CategoryDto categoryDto);
     public abstract CategoryDto toCategoryDto(Category category);
+
 }
