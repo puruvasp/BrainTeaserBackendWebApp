@@ -8,6 +8,6 @@ public class ApplicationConstants
 
     private ApplicationConstants()
     {
-        //// Restrict Instantiation
+        /// Restrict Instantiation
     }
 }
