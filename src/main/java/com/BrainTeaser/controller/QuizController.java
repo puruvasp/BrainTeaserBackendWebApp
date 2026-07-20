@@ -59,6 +59,6 @@ public class QuizController {
     @Operation(summary = "Delete a Quiz Question by its text")
     public ResponseEntity<String> deleteQuestion(@PathVariable String questionText) {
         quizService.deleteQuestion(questionText);
-        return ResponseEntity.ok("Question deleted successfully with text:" + questionText);
+        return ResponseEntity.ok("Question deleted successfully with text: " + questionText);
     }
 }
